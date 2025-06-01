@@ -1,1 +1,1 @@
-# Economics-and-FinancialMarkets
+# Economics and Financial Markets
