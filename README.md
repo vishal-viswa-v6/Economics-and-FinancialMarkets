@@ -1,5 +1,5 @@
 # Economics and Financial Markets
-## A structured overview of key concepts in microeconomics, macroeconomics, and financial markets, built to support my work in quantitative trading, machine learning, and macroeconomic modeling.
+## A structured overview of key concepts in microeconomics, macroeconomics, and financial markets, built to support my work in quantitative trading, machine learning, and finance.
 
 ### Microeconomics: Scarcity, Opportunity Cost, Factors of Production, Positive/Normative Statements, Property Rights, PPC, Comparative Advantage, Demand/Supply, Elasticity, Market Structures, Economic Efficiency, and Game Theory.
 
